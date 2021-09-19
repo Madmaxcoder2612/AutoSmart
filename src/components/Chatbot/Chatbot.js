@@ -6,7 +6,7 @@ import { useHistory } from "react-router-dom";
 const theme = {
     background: "#F4F5F6",
     fontFamily: "sans-serif",
-    headerBgColor: "#c7bfce",
+    headerBgColor: "#1F1627",
     headerFontColor: "#fff",
     headerFontSize: "16px",
     botBubbleColor: "#1F1627",

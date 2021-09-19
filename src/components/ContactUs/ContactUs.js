@@ -48,22 +48,22 @@ export default function ContactUs() {
                             <form class="p-6 flex flex-col justify-center" action="https://formspree.io/f/xyylowqg" method="POST">
                                 <div class="flex flex-col">
                                     <label for="name" class="hidden text-white">Full Name</label>
-                                    <input type="name" name="name" id="name" placeholder="Full Name" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white::placeholder" />
+                                    <input type="name" name="name" id="name" placeholder="Full Name" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white" />
                                 </div>
 
                                 <div class="flex flex-col mt-2">
                                     <label for="email" class="hidden text-white">Email</label>
-                                    <input type="email" name="email" id="email" placeholder="Email" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white::placeholder" />
+                                    <input type="email" name="email" id="email" placeholder="Email" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white" />
                                 </div>
 
                                 <div class="flex flex-col mt-2">
                                     <label for="tel" class="hidden text-white">Subjext</label>
-                                    <input type="tel" name="subject" id="tel" placeholder="Subject" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white::placeholder" />
+                                    <input type="tel" name="subject" id="tel" placeholder="Subject" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white" />
                                 </div>
 
                                 <div class="flex flex-col mt-2">
                                     <label for="tel" class="hidden text-white">Message</label>
-                                    <textarea type="tel" name="message" id="tel" placeholder="Message" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white::placeholder" />
+                                    <textarea type="tel" name="message" id="tel" placeholder="Message" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none placeholder-white" />
                                 </div>
 
                                 <button type="submit" class="md:w-48 bg-purple-800 hover:bg-blue-dark text-white font-bold py-3 px-6 rounded-lg mt-3 hover:bg-purple-500 transition ease-in-out duration-300">
