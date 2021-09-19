@@ -4,7 +4,7 @@
 Making Engineering, a Reality for You
 
 <p align="center">
-<a href="#"><img width="300px" height="300px" align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" height="175px"/></a>
+<a href="#"><img width="300px" height="300px" align="center" src="https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/logo.png" height="175px"/></a>
 </p>
 
     
@@ -30,7 +30,6 @@ Checkout the complete demo video from [here](https://madmaxcoder2612.github.io/A
 - Click on the Perseverance Rover and get information about different parts
 - Learn with Augmented Reality
 - Chatbot Assistant
-- Light/dark mode toggle
   
 ## 💻 Tech Stack
 
@@ -64,13 +63,12 @@ From the project folder, run these commands in console (terminal) to install dep
 ## 🖼️ Some glimps of the site
 
 Home page
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Home.png)
 
 AR in action
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/F6%20Boxer.png)
 
-Explore more
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Turbofan.png)
 
 Chat Bot
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Chatbot.png)
