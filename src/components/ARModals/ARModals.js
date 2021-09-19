@@ -17,7 +17,7 @@ export default function ARModels() {
                 <Link to='/models3D'>
                     <div className="m-8">
                         <div className="w-64 h-64 cursor-pointer transition duration-500 transform hover:scale-105">
-                            <img className="pb-8 border-4 bg-white border-blue-600 rounded-lg" alt="" src={CombustionEngineImg} />
+                            <img className="pb-8 border-4 bg-white border-indigo-800 rounded-lg" alt="" src={CombustionEngineImg} />
                             <div className="grid place-content-center mx-1 -mt-8 text-xl font-semibold text-gray-900 bg-homeImg font-sourceSerifPro">Combustion Engine</div>
                         </div>
                     </div>
@@ -26,7 +26,7 @@ export default function ARModels() {
                 <Link to='/models3D'>
                     <div className="m-8">
                         <div className="w-64 h-64 cursor-pointer transition duration-500 transform hover:scale-105">
-                            <img className="pb-8 border-4 bg-white border-blue-600 rounded-lg" alt="" src=
+                            <img className="pb-8 border-4 bg-white border-indigo-800 rounded-lg" alt="" src=
                                 {F6BoxerImg} />
                             <div className="grid place-content-center mx-1 -mt-8 text-xl font-semibold text-gray-900 bg-homeImg font-sourceSerifPro">F6 Boxer</div>
                         </div>
@@ -36,7 +36,7 @@ export default function ARModels() {
                 <Link to='/models3D'>
                     <div className="m-8">
                         <div className="w-64 h-64 cursor-pointer transition duration-500 transform hover:scale-105">
-                            <img className="pb-8 border-4 bg-white border-blue-600 rounded-lg" alt="" src=
+                            <img className="pb-8 border-4 bg-white border-indigo-800 rounded-lg" alt="" src=
                                 {TurbofanImg} />
                             <div className="grid place-content-center mx-1 -mt-8 text-xl font-semibold text-gray-900 bg-homeImg font-sourceSerifPro">Turbofan</div>
                         </div>
@@ -46,7 +46,7 @@ export default function ARModels() {
                 <Link to='/models3D'>
                     <div className="m-8">
                         <div className="w-64 h-64 cursor-pointer transition duration-500 transform hover:scale-105">
-                            <img className="pb-8 border-4 bg-white border-blue-600 rounded-lg" alt="" src=
+                            <img className="pb-8 border-4 bg-white border-indigo-800 rounded-lg" alt="" src=
                                 {V8Img} />
                             <div className="grid place-content-center mx-1 -mt-8 text-xl font-semibold text-gray-900 bg-homeImg font-sourceSerifPro">Pontiac V8 engine</div>
                         </div>

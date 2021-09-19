@@ -3,7 +3,7 @@ export default function ContactUs() {
         <div>
             <div class="relative flex items-top justify-center min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0" style={{ backgroundColor: "#1F1627" }} id="contact">
                 <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                    <div class="mt-8 overflow-hidden">
+                    <div class="mt-8 overflow-hidden text-white">
                         <div class="grid grid-cols-1 md:grid-cols-2">
                             <div class="p-6 mr-2  dark:bg-gray-800 sm:rounded-lg">
                                 <h1 class="text-4xl sm:text-5xl text-white font-extrabold tracking-tight">
@@ -45,25 +45,25 @@ export default function ContactUs() {
                                 </div>
                             </div>
 
-                            <form class="p-6 flex flex-col justify-center">
+                            <form class="p-6 flex flex-col justify-center" action="https://formspree.io/f/xyylowqg" method="POST">
                                 <div class="flex flex-col">
-                                    <label for="name" class="hidden">Full Name</label>
+                                    <label for="name" class="hidden text-white">Full Name</label>
                                     <input type="name" name="name" id="name" placeholder="Full Name" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none" />
                                 </div>
 
                                 <div class="flex flex-col mt-2">
-                                    <label for="email" class="hidden">Email</label>
+                                    <label for="email" class="hidden text-white">Email</label>
                                     <input type="email" name="email" id="email" placeholder="Email" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none" />
                                 </div>
 
                                 <div class="flex flex-col mt-2">
-                                    <label for="tel" class="hidden">Subjext</label>
-                                    <input type="tel" name="tel" id="tel" placeholder="Subject" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none" />
+                                    <label for="tel" class="hidden text-white">Subjext</label>
+                                    <input type="tel" name="subject" id="tel" placeholder="Subject" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none" />
                                 </div>
 
                                 <div class="flex flex-col mt-2">
-                                    <label for="tel" class="hidden">Message</label>
-                                    <textarea type="tel" name="tel" id="tel" placeholder="Message" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none" />
+                                    <label for="tel" class="hidden text-white">Message</label>
+                                    <textarea type="tel" name="message" id="tel" placeholder="Message" class="w-100 mt-2 py-3 px-3 rounded-lg bg-purple-500 dark:bg-gray-800 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none" />
                                 </div>
 
                                 <button type="submit" class="md:w-48 bg-purple-800 hover:bg-blue-dark text-white font-bold py-3 px-6 rounded-lg mt-3 hover:bg-purple-500 transition ease-in-out duration-300">
