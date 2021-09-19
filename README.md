@@ -15,13 +15,13 @@ In this pandemic, situation E-learning has proved a new and efficient method. Fo
   
 ## Live Demo
 
-The site is deployed throught Vercel, which you can view from [here](https://madmaxcoder2612.github.io/AutoSmart/)
+The site is deployed throught Vercel, which you can view from [here](https://auto-smart.vercel.app/)
 
  Checkout the ppt from [here](https://www.canva.com/design/DAEqRBxYhNQ/2YENaqmc5UE2O6MC_OkBIg/view?utm_content=DAEqRBxYhNQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 
 
  ## Demo Video
 
-Checkout the complete demo video from [here](https://madmaxcoder2612.github.io/AutoSmart/)
+Checkout the complete demo video from [here](https://www.youtube.com/watch?v=c5fvJ61qoaU)
 
  
 ## 🚀 Features
