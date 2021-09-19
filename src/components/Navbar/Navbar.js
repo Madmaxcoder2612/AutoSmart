@@ -1,32 +1,68 @@
 import LogoImg from "../../assets/logo.png"
+import { Link } from "react-scroll"
 import "./Navbar.css"
 
 export default function Navbar() {
     return (
-        <header class="header" id="header">
+        <header class="header" id="header" style={{ backgroundColor: "#1F1627" }}>
             <nav class="nav container">
                 <img class="nav__logo logo" src={LogoImg} width="150" height="150" ALT="logo" />
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list grid">
                         <li class="nav__item">
-                            <a href="#home" class="nav__link active-link">Home
-                            </a>
+                            <Link activeClass="active"
+                                to="home"
+                                spy={true}
+                                smooth={true}
+                                offset={-50}
+                                duration={250}>
+                                <a href="" class="nav__link active-link">Home
+                                </a>
+                            </Link>
                         </li>
                         <li class="nav__item">
-                            <a href="#about" class="nav__link">About
-                            </a>
+                            <Link activeClass="active"
+                                to="about"
+                                spy={true}
+                                smooth={true}
+                                offset={-100}
+                                duration={250}>
+                                <a href="" class="nav__link active-link">About
+                                </a>
+                            </Link>
                         </li>
                         <li class="nav__item">
-                            <a href="#services" class="nav__link">Services
-                            </a>
+                            <Link activeClass="active"
+                                to="services"
+                                spy={true}
+                                smooth={true}
+                                offset={-100}
+                                duration={250}>
+                                <a href="" class="nav__link active-link">Services
+                                </a>
+                            </Link>
                         </li>
                         <li class="nav__item">
-                            <a href="#company" class="nav__link">R Models
-                            </a>
+                            <Link activeClass="active"
+                                to="armodels"
+                                spy={true}
+                                smooth={true}
+                                offset={-100}
+                                duration={250}>
+                                <a href="" class="nav__link active-link">AR Models
+                                </a>
+                            </Link>
                         </li>
                         <li class="nav__item">
-                            <a href="#contact" class="nav__link">Contact
-                            </a>
+                            <Link activeClass="active"
+                                to="contact"
+                                spy={true}
+                                smooth={true}
+                                offset={-100}
+                                duration={250}>
+                                <a href="" class="nav__link active-link">Contact
+                                </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

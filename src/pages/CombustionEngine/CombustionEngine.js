@@ -37,16 +37,16 @@ export default function CombustionEngine() {
                     <div className="mt-5 md:mt-0 md:col-span-1">
                         <div className="md:flex md:flex-col md:justify-center ">
 
-                            <h2 className="self-center mx-8 mb-4 text-5xl font-medium tracking-wide text-white font-fontVollkorn">Combustion Engine</h2>
+                            <h2 className="self-center mx-8 mb-4 text-5xl font-medium tracking-wide text-white font- popins">Combustion Engine</h2>
 
-                            <p className="self-center mx-8 text-xl font-medium tracking-wide text-justify text-white font-fontVollkorn">A combustion engine is an engine which generates mechanical power by combustion of a fuel. Combustion engines are of two general types: Internal combustion engine. External combustion engine.</p>
+                            <p className="self-center mx-8 text-xl font-medium tracking-wide text-justify text-white font- popins">A combustion engine is an engine which generates mechanical power by combustion of a fuel. Combustion engines are of two general types: Internal combustion engine. External combustion engine.</p>
 
-                            <p className="self-center mx-8 text-xl tracking-wide text-justify text-white font-fontVollkorn">To view the 3D model in AR, scan the QR code or click on the button below.</p>
+                            <p className="self-center mx-8 text-xl tracking-wide text-justify text-white font- popins">To view the 3D model in AR, scan the QR code or click on the button below.</p>
 
                             <div className="grid justify-center grid-cols-1 gap-6 pb-8 mx-8 md:grid-cols-2 lg:grid-cols-2">
-                                <img className="flex p-6 text-6xl rounded-xl h-64 w-64" src="https://storage.echoar.xyz/wispy-violet-4999/90a2a92c-b69d-45d4-8935-9ea307faeb05" alt="QR" />
-                                <a href="https://go.echoar.xyz/J8oi" target="_blank" rel="noreferrer">
-                                    <button className="h-12 px-8 ml-12 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm font-fontVollkorn lg:mt-36 sm:mt-4 bg-red-50 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 hover:shadow-lg">View in AR</button>
+                                <img className="flex p-6 text-6xl rounded-xl h-64 w-64" src="https://storage.echoar.xyz/wispy-violet-4999/b865f50d-d8c5-4f16-894d-3fb6a58e0340" alt="QR" />
+                                <a href="https://go.echoar.xyz/JMsn" target="_blank" rel="noreferrer">
+                                    <button className="h-12 px-8 ml-12 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm font- popins lg:mt-36 sm:mt-4 bg-red-50 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 hover:shadow-lg">View in AR</button>
                                 </a>
                             </div>
 

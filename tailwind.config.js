@@ -12,6 +12,7 @@ module.exports = {
         page404A: "#1C1023",
         page404B: "#B53FA6",
         page404C: "#351945",
+        footerBg: '#140E1B',
       },
       zIndex: {
         "-1": "-1",
@@ -19,9 +20,7 @@ module.exports = {
     },
     fontFamily: {
       'sans': ['Helvetica', 'Arial', 'sans-serif'],
-      'dancingScript': ['Dancing Script'],
-      'sourceSerifPro': ['Source Serif Pro'],
-      "fontVollkorn": ['Vollkorn'],
+      'popins': ['Poppins'],
       'body': ['Open Sans'],
     }
   },

@@ -6,7 +6,7 @@ import V8Pontic from "../V8Pontiac/V8Pontiac"
 
 export default function Models3D() {
     return (
-        <div className="bg-indigo-500">
+        <div style={{backgroundColor: "#1F1627"}} className="pt-20">
             <Link to="/" className="text-white ml-4 mt-4">Go back</Link>
             <CombustionEngine />
             <F6Boxer />
